@@ -27,4 +27,5 @@ This is my attempt at cloning the [Obys Agency](https://obys.agency/) website. I
 
 1. Clone this repo:  
 ```bash
-git clone https://github.com/sameer-gour/Obys-Agency-Clone/tree/main
+git clone
+ https://github.com/sameer-gour/Obys-Agency-Clone/tree/main
