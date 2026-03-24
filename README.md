@@ -1,27 +1,25 @@
-# Obys Agency Clone
+🚀 Obys Agency Clone – Frontend Practice Project
 
-Hey there! 👋  
-This is my attempt at cloning the [Obys Agency](https://obys.agency/) website. I built it to practice **responsive design, animations, and interactive UI**.  
+Hey there! 👋
+This is my attempt at cloning the Obys Agency website. I built this project while learning frontend development to practice responsive design, animations, and interactive UI.
 
----
+🔹 What’s in it
+• Fully responsive (Desktop, Tablet, Mobile)
+• Smooth scrolling using Locomotive Scroll
+• Fun animations with GSAP
+• Tried to match the look & feel of the original website
 
-## What’s in it
+🛠 Tech I used
+HTML, CSS (Flexbox & Grid)
+JavaScript
+GSAP
+Locomotive Scroll
+Shery.js
 
-- Fully **responsive** for desktop, tablet, and mobile  
-- **Smooth scrolling** using Locomotive Scroll  
-- Fun **animations** with GSAP  
-- Trying to match the **look and feel** of the original site  
+🔗 Live Demo: https://obys-agency-clone-ecru.vercel.app/
+🔗 GitHub: https://github.com/sameer-gour/Obys-Agency-Clone
 
----
+This project helped me understand animations, smooth scrolling, and UI details much better.
+More projects coming soon 🚀
 
-## Tech I used
-
-- HTML, CSS (Flexbox & Grid)  
-- JavaScript  
-- GSAP for animations  
-- Locomotive Scroll
-- shari js
-
----
-
-
+#frontend #webdevelopment #javascript #gsap #coding #developers #100DaysOfCode #sheryians
